@@ -36,12 +36,13 @@ Me gusta ser dinámico en mi aprendizaje y tengo una pasión por aprender consta
 - Construyendo aplicaciones del lado del servidor con Django, un potente framework web de Python.
 - Adentrándome en PostgreSQL para una gestión eficiente y escalable de bases de datos.
 
- ## 🏆 Achievements
+ ## 🏆 Logros
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- 🌟 Desarrolle y desplegue la pagina de [Colmetec.com](https://colmetec.academy/)
+- ⚡ Estoy desarrollando una aplicación fullStack: [frontEnd]() [BackEnd](https://github.com/jfpaezl/ColmetecApi)
 
 
-## 📬 Get in Touch
+## 📬 Contactame
 
 - Connect with me on [Linkedin]([https://twitter.com/introvertedbot](https://www.linkedin.com/in/juan-felipe-paez-lizarazo-297bb5170/))
 
