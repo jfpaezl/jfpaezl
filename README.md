@@ -39,7 +39,7 @@ Me gusta ser dinámico en mi aprendizaje y tengo una pasión por aprender consta
  ## 🏆 Logros
 
 - 🌟 Desarrolle y desplegue la pagina de [Colmetec.com](https://colmetec.academy/)
-- ⚡ Estoy desarrollando una aplicación fullStack: [frontEnd]() [BackEnd](https://github.com/jfpaezl/ColmetecApi)
+- ⚡ Estoy desarrollando una aplicación fullStack: [frontEnd](https://github.com/jfpaezl/PlayOn) | [BackEnd](https://github.com/jfpaezl/ApiPlayOn)
 
 
 ## 📬 Contactame
