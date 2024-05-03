@@ -19,7 +19,7 @@ Me gusta ser dinámico en mi aprendizaje y tengo una pasión por aprender consta
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,py,java)](https://skillicons.dev)
 
-## Framework and libraris
+## Librerias y frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,fastapi,spring,react,angular)](https://skillicons.dev)
 
