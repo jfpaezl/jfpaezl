@@ -44,7 +44,7 @@ Me gusta ser dinámico en mi aprendizaje y tengo una pasión por aprender consta
 
 ## 📬 Contactame
 
-- Connect with me on [Linkedin]([https://twitter.com/introvertedbot](https://www.linkedin.com/in/juan-felipe-paez-lizarazo-297bb5170/))
+- Contactame por [Linkedin](https://www.linkedin.com/in/juan-felipe-paez-lizarazo-297bb5170/)
 
 Gracias por pasar! Conectemos y exploremos juntos el fascinante mundo de la tecnología. 🚀
 
